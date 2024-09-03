@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b85d90;
+    margin: 20px;
+  }
+  
+  section {
+    background-color: rgb(221, 221, 205);
+    padding: 20px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  h1 {
+    color: darkgreen;
+    text-align: left;
+  }
+  
+  p {
+    color: rgb(53, 10, 40);
+    margin-bottom: 20px;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  button:hover {
+    background-color: jungle green;
+  }
